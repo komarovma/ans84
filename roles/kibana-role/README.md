@@ -1,4 +1,4 @@
-Elascticsearch role
+Kibana role
 =========
 
 Роль для установки kibana на хостах с ОС: Debian, Ubuntu, CentOS, RHEL.
